@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/exit_program.png</file>
+        <file>icons/new_code_block.png</file>
+        <file>icons/new_project.png</file>
+        <file>icons/save_as.png</file>
+        <file>icons/save_project.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/about.png</file>
+        <file>icons/add_text_block.png</file>
+        <file>icons/clear_outputs.png</file>
+        <file>icons/color_picker.png</file>
+        <file>icons/file_selector.png</file>
+        <file>icons/restart_kernel.png</file>
+        <file>icons/stop_execution.png</file>
+        <file>icons/duplicate_project.png</file>
+        <file>icons/open_project.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/run.png</file>
+        <file>icons/output.png</file>
+        <file>icons/program_icon.png</file>
+        <file>icons/close_project.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/update.png</file>
+    </qresource>
+</RCC>
